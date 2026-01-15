@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/SEU_USUARIO/gitops-demo
+    repoURL: https://github.com/AlexRozaLopes/gitops-demo
     targetRevision: main
     path: charts/nginx
     helm:
